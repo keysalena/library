@@ -1,0 +1,96 @@
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe.config
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.pdb
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.AssemblyReference.cache
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.SuggestedBindingRedirects.cache
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormICD_11.resources
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMain.resources
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.Properties.Resources.resources
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.GenerateResource.cache
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CoreCompileInputs.cache
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.exe
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.pdb
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormDoctor.resources
+E:\Documents\My Project\Visual Studio\C#\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatient.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.AssemblyReference.cache
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.SuggestedBindingRedirects.cache
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormDoctor.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormICD_11.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMain.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMeeting.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatient.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.Properties.Resources.resources
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.GenerateResource.cache
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CoreCompileInputs.cache
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.exe
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.pdb
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe.config
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe
+F:\HOV Hospital\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.pdb
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe.config
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.pdb
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.AssemblyReference.cache
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.SuggestedBindingRedirects.cache
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormDoctor.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormICD_11.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMain.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMeeting.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormNewMeeting.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatient.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatientRecord.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.Properties.Resources.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.GenerateResource.cache
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CoreCompileInputs.cache
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.exe
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.pdb
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormAddNewItemPayment.resources
+D:\Hoverzich\Desktop\HOV Hospital\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPayment.resources
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe.config
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.pdb
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.AssemblyReference.cache
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormAddNewItemPayment.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormDoctor.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormICD_11.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMain.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMeeting.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormNewMeeting.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatient.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatientRecord.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPayment.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.Properties.Resources.resources
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.GenerateResource.cache
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CoreCompileInputs.cache
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.exe
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.pdb
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.dll
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.xml
+D:\test\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.SqlServer.xml
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CopyComplete
+D:\test\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormAdd.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe.config
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.exe
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\HOV_Hospital.pdb
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.dll
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.SqlServer.dll
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.xml
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\bin\Debug\EntityFramework.SqlServer.xml
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.AssemblyReference.cache
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormAdd.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormAddNewItemPayment.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormDoctor.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormICD_11.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMain.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormMeeting.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormNewMeeting.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatient.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPatientRecord.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.FormPayment.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.Properties.Resources.resources
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.GenerateResource.cache
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CoreCompileInputs.cache
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.csproj.CopyComplete
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.exe
+D:\Keysa Lena Misdona\HOV_Hospital\HOV_Hospital\obj\Debug\HOV_Hospital.pdb

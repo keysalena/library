@@ -1,0 +1,16 @@
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EsemkaHero.exe.config
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EsemkaHero.exe
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EsemkaHero.pdb
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EntityFramework.dll
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EntityFramework.SqlServer.dll
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EntityFramework.xml
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\bin\Debug\EntityFramework.SqlServer.xml
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.csproj.AssemblyReference.cache
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.FormMenu.resources
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.Properties.Resources.resources
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.csproj.GenerateResource.cache
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.csproj.CoreCompileInputs.cache
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.csproj.CopyComplete
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.exe
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.pdb
+D:\Latihan LKS\Keysalena\EsemkaHero\EsemkaHero\obj\Debug\EsemkaHero.FormHeroo.resources
